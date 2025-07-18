@@ -16,7 +16,7 @@
 
 ### 🚀 Habilidades
 
-- **Linguagens:** Python, HTML, CSS, (JavaScript e  inciante em SQL)
+- **Linguagens:** Python, HTML, CSS, (JavaScript e  Básico em SQL)
 - **Ferramentas e Tecnologias:** VS Code, Jupyter Notebook, Excel, Google Sheets
 - **Bibliotecas em progresso:** Pandas
 - **Soft Skills:** Organização, trabalho em equipe, comunicação
