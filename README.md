@@ -7,10 +7,10 @@
 
 ### 💡 Sobre mim
 
-- 🎯 Focando na Area de Dados
+- 🎯 Foco na Area de Dados
 - 📚 Estudando Análise de Dados com Python e Estatística
 - 🧪 Explorando projetos acadêmicos e práticos com foco em tecnologia
-- 💼 Buscando estágio remoto em análise de dados ou áreas correlatas
+- 💼 Buscando estágio em análise de dados ou áreas correlatas
 
 
 
