@@ -1,25 +1,53 @@
-<h1 align="center">Olá! Eu sou a Dayanne Cabral Corrêa 👋</h1>
+# 📊 Hey, Eu sou a Dayanne Cabral  
 
-<p align="center">
-🎓 Estudante de Gestão da Tecnologia da Informação | 👩‍💻 Python | Dados
-</p>
+**Analista de Dados em Formação**  
+Transformando dados em insights para apoiar decisões estratégicas.  
 
+---
 
-### 💡 Sobre mim
+## 🚀 Sobre mim
+- 🎓 Estudante de **Gestão da Tecnologia da Informação** (FATEC)
+- 📈 Foco em **Python, Estatística e Visualização de Dados**
+- 🛠 Experiência com **Pandas, Matplotlib, Seaborn, SQL, Power BI**
+- 💡 Buscando estágio na área de dados para aplicar e evoluir habilidades
+- 🤝 Aberta a colaborações e projetos de análise de dados
 
-- 🎯 Foco na Area de Dados
-- 📚 Estudando Análise de Dados com Python e Estatística
-- 🧪 Explorando projetos acadêmicos e práticos com foco em tecnologia
-- 💼 Buscando estágio em análise de dados ou áreas correlatas
+---
 
+## 🛠 Linguagens e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-00457C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-5A5A5A?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+---
 
-### 🚀 Habilidades
+## 📊 GitHub Stats
+![Dayanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anne-Day&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anne-Day&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anne-Day&theme=tokyonight)
 
-- **Linguagens:** Python, HTML, CSS, (JavaScript e  Básico em SQL)
-- **Ferramentas e Tecnologias:** VS Code, Jupyter Notebook, Excel, Google Sheets
-- **Bibliotecas em progresso:** Pandas
-- **Soft Skills:** Organização, trabalho em equipe, comunicação
-- **Idiomas:** Inglês intermediário
+---
+
+## 📂 Projetos em Destaque
+- 📊 [**Análise Salarial Global**](link-do-repo) — Limpeza e visualização de dados salariais por país  
+- 🛍 [**Dashboard de Vendas**](link-do-repo) — Análise e insights de vendas usando Python + Power BI  
+- 📈 [**Estatísticas Educacionais**](link-do-repo) — Explorando dados educacionais com Pandas e Matplotlib  
+
+---
+
+## 🏆 Conquistas
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Anne-Day&theme=dracula&no-frame=true&margin-w=10)
+
+---
+
+## 📬 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayanne-cabral-6029242a0)  
+✉️ **E-mail:** dayanne.ccabral@gmail.com
+
 
 
