@@ -26,20 +26,8 @@ Transformando dados em insights para apoiar decisões estratégicas.
 
 ---
 
-## 📊 GitHub Stats
-![Dayanne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anne-Day&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anne-Day&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Anne-Day&theme=tokyonight)
-
----
-
 ## 📂 Projetos em Destaque
 - 📊 [**Análise Salarial Global**](link-do-repo) — Limpeza e visualização de dados salariais por país  
-
----
-
-## 🏆 Conquistas
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Anne-Day&theme=dracula&no-frame=true&margin-w=10)
 
 ---
 
