@@ -1,4 +1,4 @@
-# 📊 Hey, Eu sou a Dayanne Cabral  
+# 📊 Bem-Vindo!
 
 **Analista de Dados em Formação**  
 Transformando dados em insights para apoiar decisões estratégicas.  
@@ -35,8 +35,6 @@ Transformando dados em insights para apoiar decisões estratégicas.
 
 ## 📂 Projetos em Destaque
 - 📊 [**Análise Salarial Global**](link-do-repo) — Limpeza e visualização de dados salariais por país  
-- 🛍 [**Dashboard de Vendas**](link-do-repo) — Análise e insights de vendas usando Python + Power BI  
-- 📈 [**Estatísticas Educacionais**](link-do-repo) — Explorando dados educacionais com Pandas e Matplotlib  
 
 ---
 
