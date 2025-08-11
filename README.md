@@ -1,12 +1,12 @@
 # 📊 Bem-Vindo!
 
-**Analista de Dados em Formação**  
+**Estudante de Gestão de Tecnologia da Informação | Foco em Análise de Dados**  
 Transformando dados em insights para apoiar decisões estratégicas.  
 
 ---
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de **Gestão da Tecnologia da Informação** (FATEC)
+- 🎓 Estudante de **Gestão da Tecnologia da Informação** (FATEC Guaratinguetá - Conclusão: 2026)
 - 📈 Foco em **Python, Estatística e Visualização de Dados**
 - 🛠 Experiência com **Pandas, Matplotlib, Seaborn, SQL, Power BI**
 - 💡 Buscando estágio na área de dados para aplicar e evoluir habilidades
