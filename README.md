@@ -27,7 +27,7 @@ Transformando dados em insights para apoiar decisões estratégicas.
 ---
 
 ## 📂 Projetos em Destaque
-- 📊 [**Análise Salarial Global**](link-do-repo) — Limpeza e visualização de dados salariais por país  
+- 📊 [**Análise Salarial Global**](https://github.com/Anne-Day/Imersao-de-Dados-com-a-Alura) — Limpeza e visualização de dados salariais por país  
 
 ---
 
