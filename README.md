@@ -8,7 +8,7 @@ Transformando dados em insights para apoiar decisões estratégicas.
 ## 🚀 Sobre mim
 - 🎓 Estudante de **Gestão da Tecnologia da Informação** (FATEC Guaratinguetá - Conclusão: 2026)
 - 📈 Foco em **Python, Estatística e Visualização de Dados**
-- 🛠 Experiência com **Pandas, Matplotlib, Seaborn, SQL, Power BI**
+- 🛠 Menos de 1 ano de Experiência com **Pandas, Matplotlib, Seaborn, SQL, Power BI**
 - 💡 Buscando estágio na área de dados para aplicar e evoluir habilidades
 - 🤝 Aberta a colaborações e projetos de análise de dados
 
